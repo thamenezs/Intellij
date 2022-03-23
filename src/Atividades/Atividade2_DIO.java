@@ -1,4 +1,4 @@
-package tipos;
+package Atividades;
 
 import java.util.Scanner;
 
